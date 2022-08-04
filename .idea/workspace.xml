@@ -59,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659578591092</updated>
-      <workItem from="1659578593398" duration="3142000" />
+      <workItem from="1659578593398" duration="3832000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1659580381152</created>
@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659581513789</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="提交本地仓库测试">
+      <created>1659582021146</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659582021146</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,7 +101,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="提交本地仓库测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交本地仓库测试" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
